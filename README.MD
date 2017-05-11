@@ -1,1 +1,1 @@
-This is an example of git workflows.
+This is an example of git workflows. Here you will find a comprehensive list of all git commands.
